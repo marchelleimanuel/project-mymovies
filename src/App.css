@@ -219,7 +219,6 @@ header .brand {
 
     .navigation {
         text-align: center;
-        /* border: 1px solid; */
         width: 100%;
         justify-content: space-between;
     }
@@ -234,6 +233,31 @@ header .brand {
 }
 
 @media screen and (width < 500px) {
-    
+    body {
+        max-width: 90%;
+    }
+
+    header {
+        max-width: 100%;
+    }
+}
+
+@media screen and (width < 400px) {
+    body {
+        max-width: 100%;
+    }
+
+    header {
+        padding: 1rem 2rem;
+    }
+
+    header .brand {
+        font-size: 2.5rem
+    }
+
+    .navigation .my-favorite {
+        font-size: 1.1rem;
+    }
+
 }
 
