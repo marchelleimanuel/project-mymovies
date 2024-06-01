@@ -22,5 +22,5 @@ MyMovies is a user-friendly website for movie enthusiasts. It allows user to sea
 
 ## Demo 
 Check out the demo video of MyMovies: 
-- [Demo](https://youtu.be/XNXfT7JKU2c).
+- [Demo](https://youtu.be/xlgQWoetj4g).
 
